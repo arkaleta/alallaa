@@ -1,5 +1,6 @@
 #include "algorytm.h"
 #include "array.h"
+#include <stdio.h>
 
 int sasiedzi(int** tab, int wier, int kol){
 	int i, j, n=0;
