@@ -1,5 +1,6 @@
 #include "array.h"
 #include <stdio.h>
+#include <stdlib.h>
 
 int **create_tab(int wier, int kol){
     int **tab,i;
